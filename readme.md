@@ -6,8 +6,8 @@ Este repositorio contiene información completa y actualizada sobre los distrito
 
 El repositorio se estructura de la siguiente manera:
 
-- El archivo `provincias.js` contiene un objeto JavaScript llamado `Provincias` que enumera todas las provincias de Costa Rica, junto con sus respectivos cantones y distritos.
-- El archivo `cantones.js` contiene un objeto JavaScript llamado `Cantones` que enumera todos los cantones de Costa Rica, junto con sus respectivos distritos.
+- El archivo `provincias.js` contiene un arreglo  JavaScript llamado `Provincias` que agrupa todas las provincias de Costa Rica.
+- El archivo `cantones.js` contiene un objeto JavaScript llamado `Cantones` que enumera todos los cantones de Costa Rica agrupados por provincia.
 - El archivo `distritos.js` contiene un objeto JavaScript llamado `Distritos` que enumera todos los distritos de Costa Rica, agrupados por cantón y provincia.
 
 ## Uso
@@ -37,8 +37,3 @@ console.log(distritosDeSanJose);
 
 Si encuentras algún error o falta de información en los archivos, o si deseas agregar información adicional, ¡te animamos a contribuir a este repositorio! Puedes hacerlo mediante la apertura de un problema o enviando una solicitud de extracción.
 
-## Licencia
-
-Este repositorio se distribuye bajo la Licencia MIT. Puedes encontrar más detalles en el archivo `LICENSE`.
-
-Esperamos que esta información sea útil y facilite el acceso a los datos de los distritos, cantones y provincias de Costa Rica. ¡Disfruta explorando y utilizando esta información en tus proyectos!
