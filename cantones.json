@@ -1,0 +1,422 @@
+[
+  {
+    "id": 101,
+    "nombre": "San José",
+    "provinciaId": 1
+  },
+  {
+    "id": 102,
+    "nombre": "Escazú",
+    "provinciaId": 1
+  },
+  {
+    "id": 103,
+    "nombre": "Desamparados",
+    "provinciaId": 1
+  },
+  {
+    "id": 104,
+    "nombre": "Puriscal",
+    "provinciaId": 1
+  },
+  {
+    "id": 105,
+    "nombre": "Tarrazú",
+    "provinciaId": 1
+  },
+  {
+    "id": 106,
+    "nombre": "Aserrí",
+    "provinciaId": 1
+  },
+  {
+    "id": 107,
+    "nombre": "Mora",
+    "provinciaId": 1
+  },
+  {
+    "id": 108,
+    "nombre": "Goicoechea",
+    "provinciaId": 1
+  },
+  {
+    "id": 109,
+    "nombre": "Santa Ana",
+    "provinciaId": 1
+  },
+  {
+    "id": 110,
+    "nombre": "Alajuelita",
+    "provinciaId": 1
+  },
+  {
+    "id": 111,
+    "nombre": "Vázquez de Coronado",
+    "provinciaId": 1
+  },
+  {
+    "id": 112,
+    "nombre": "Acosta",
+    "provinciaId": 1
+  },
+  {
+    "id": 113,
+    "nombre": "Tibás",
+    "provinciaId": 1
+  },
+  {
+    "id": 114,
+    "nombre": "Moravia",
+    "provinciaId": 1
+  },
+  {
+    "id": 115,
+    "nombre": "Montes de Oca",
+    "provinciaId": 1
+  },
+  {
+    "id": 116,
+    "nombre": "Turrubares",
+    "provinciaId": 1
+  },
+  {
+    "id": 117,
+    "nombre": "Dota",
+    "provinciaId": 1
+  },
+  {
+    "id": 118,
+    "nombre": "Curridabat",
+    "provinciaId": 1
+  },
+  {
+    "id": 119,
+    "nombre": "Pérez Zeledón",
+    "provinciaId": 1
+  },
+  {
+    "id": 120,
+    "nombre": "León Cortés Castro",
+    "provinciaId": 1
+  },
+  {
+    "id": 201,
+    "nombre": "Alajuela",
+    "provinciaId": 2
+  },
+  {
+    "id": 202,
+    "nombre": "San Ramón",
+    "provinciaId": 2
+  },
+  {
+    "id": 203,
+    "nombre": "Grecia",
+    "provinciaId": 2
+  },
+  {
+    "id": 204,
+    "nombre": "San Mateo",
+    "provinciaId": 2
+  },
+  {
+    "id": 205,
+    "nombre": "Atenas",
+    "provinciaId": 2
+  },
+  {
+    "id": 206,
+    "nombre": "Naranjo",
+    "provinciaId": 2
+  },
+  {
+    "id": 207,
+    "nombre": "Palmares",
+    "provinciaId": 2
+  },
+  {
+    "id": 208,
+    "nombre": "Poás",
+    "provinciaId": 2
+  },
+  {
+    "id": 209,
+    "nombre": "Orotina",
+    "provinciaId": 2
+  },
+  {
+    "id": 210,
+    "nombre": "San Carlos",
+    "provinciaId": 2
+  },
+  {
+    "id": 211,
+    "nombre": "Zarcero",
+    "provinciaId": 2
+  },
+  {
+    "id": 212,
+    "nombre": "Sarchí",
+    "provinciaId": 2
+  },
+  {
+    "id": 213,
+    "nombre": "Upala",
+    "provinciaId": 2
+  },
+  {
+    "id": 214,
+    "nombre": "Los Chiles",
+    "provinciaId": 2
+  },
+  {
+    "id": 215,
+    "nombre": "Guatuso",
+    "provinciaId": 2
+  },
+  {
+    "id": 216,
+    "nombre": "Río Cuarto",
+    "provinciaId": 2
+  },
+  {
+    "id": 301,
+    "nombre": "Cartago",
+    "provinciaId": 3
+  },
+  {
+    "id": 302,
+    "nombre": "Paraíso",
+    "provinciaId": 3
+  },
+  {
+    "id": 303,
+    "nombre": "La Unión",
+    "provinciaId": 3
+  },
+  {
+    "id": 304,
+    "nombre": "Jiménez",
+    "provinciaId": 3
+  },
+  {
+    "id": 305,
+    "nombre": "Turrialba",
+    "provinciaId": 3
+  },
+  {
+    "id": 306,
+    "nombre": "Alvarado",
+    "provinciaId": 3
+  },
+  {
+    "id": 307,
+    "nombre": "Oreamuno",
+    "provinciaId": 3
+  },
+  {
+    "id": 308,
+    "nombre": "El Guarco",
+    "provinciaId": 3
+  },
+  {
+    "id": 401,
+    "nombre": "Heredia",
+    "provinciaId": 4
+  },
+  {
+    "id": 402,
+    "nombre": "Barva",
+    "provinciaId": 4
+  },
+  {
+    "id": 403,
+    "nombre": "Santo Domingo",
+    "provinciaId": 4
+  },
+  {
+    "id": 404,
+    "nombre": "Santa Bárbara",
+    "provinciaId": 4
+  },
+  {
+    "id": 405,
+    "nombre": "San Rafael",
+    "provinciaId": 4
+  },
+  {
+    "id": 406,
+    "nombre": "San Isidro",
+    "provinciaId": 4
+  },
+  {
+    "id": 407,
+    "nombre": "Belén",
+    "provinciaId": 4
+  },
+  {
+    "id": 408,
+    "nombre": "Flores",
+    "provinciaId": 4
+  },
+  {
+    "id": 409,
+    "nombre": "San Pablo",
+    "provinciaId": 4
+  },
+  {
+    "id": 410,
+    "nombre": "Sarapiquí",
+    "provinciaId": 4
+  },
+  {
+    "id": 501,
+    "nombre": "Liberia",
+    "provinciaId": 5
+  },
+  {
+    "id": 502,
+    "nombre": "Nicoya",
+    "provinciaId": 5
+  },
+  {
+    "id": 503,
+    "nombre": "Santa Cruz",
+    "provinciaId": 5
+  },
+  {
+    "id": 504,
+    "nombre": "Bagaces",
+    "provinciaId": 5
+  },
+  {
+    "id": 505,
+    "nombre": "Carrillo",
+    "provinciaId": 5
+  },
+  {
+    "id": 506,
+    "nombre": "Cañas",
+    "provinciaId": 5
+  },
+  {
+    "id": 507,
+    "nombre": "Abangares",
+    "provinciaId": 5
+  },
+  {
+    "id": 508,
+    "nombre": "Tilarán",
+    "provinciaId": 5
+  },
+  {
+    "id": 509,
+    "nombre": "Nandayure",
+    "provinciaId": 5
+  },
+  {
+    "id": 510,
+    "nombre": "La Cruz",
+    "provinciaId": 5
+  },
+  {
+    "id": 511,
+    "nombre": "Hojancha",
+    "provinciaId": 5
+  },
+  {
+    "id": 601,
+    "nombre": "Puntarenas",
+    "provinciaId": 6
+  },
+  {
+    "id": 602,
+    "nombre": "Esparza",
+    "provinciaId": 6
+  },
+  {
+    "id": 603,
+    "nombre": "Buenos Aires",
+    "provinciaId": 6
+  },
+  {
+    "id": 604,
+    "nombre": "Montes de Oro",
+    "provinciaId": 6
+  },
+  {
+    "id": 605,
+    "nombre": "Osa",
+    "provinciaId": 6
+  },
+  {
+    "id": 606,
+    "nombre": "Quepos",
+    "provinciaId": 6
+  },
+  {
+    "id": 607,
+    "nombre": "Golfito",
+    "provinciaId": 6
+  },
+  {
+    "id": 608,
+    "nombre": "Coto Brus",
+    "provinciaId": 6
+  },
+  {
+    "id": 609,
+    "nombre": "Parrita",
+    "provinciaId": 6
+  },
+  {
+    "id": 610,
+    "nombre": "Corredores",
+    "provinciaId": 6
+  },
+  {
+    "id": 611,
+    "nombre": "Garabito",
+    "provinciaId": 6
+  },
+  {
+    "id": 612,
+    "nombre": "Monteverde",
+    "provinciaId": 6
+  },
+  {
+    "id": 613,
+    "nombre": "Puerto Jiménez",
+    "provinciaId": 6
+  },
+  {
+    "id": 701,
+    "nombre": "Limón",
+    "provinciaId": 7
+  },
+  {
+    "id": 702,
+    "nombre": "Pococí",
+    "provinciaId": 7
+  },
+  {
+    "id": 703,
+    "nombre": "Siquirres",
+    "provinciaId": 7
+  },
+  {
+    "id": 704,
+    "nombre": "Talamanca",
+    "provinciaId": 7
+  },
+  {
+    "id": 705,
+    "nombre": "Matina",
+    "provinciaId": 7
+  },
+  {
+    "id": 706,
+    "nombre": "Guácimo",
+    "provinciaId": 7
+  }
+]
