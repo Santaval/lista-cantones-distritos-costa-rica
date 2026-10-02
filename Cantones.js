@@ -1,5 +1,6 @@
+// Archivo generado por scripts/build-js.js a partir de los archivos JSON. No editar a mano.
 const Cantones = {
-  "San Jose": [
+  "San José": [
     "San José",
     "Escazú",
     "Desamparados",
@@ -19,10 +20,9 @@ const Cantones = {
     "Dota",
     "Curridabat",
     "Pérez Zeledón",
-    "León Cortés Castro",
+    "León Cortés Castro"
   ],
-
-  Alajuela: [
+  "Alajuela": [
     "Alajuela",
     "San Ramón",
     "Grecia",
@@ -34,13 +34,13 @@ const Cantones = {
     "Orotina",
     "San Carlos",
     "Zarcero",
-    "Valverde Vega",
+    "Sarchí",
     "Upala",
     "Los Chiles",
     "Guatuso",
+    "Río Cuarto"
   ],
-
-  Cartago: [
+  "Cartago": [
     "Cartago",
     "Paraíso",
     "La Unión",
@@ -48,10 +48,9 @@ const Cantones = {
     "Turrialba",
     "Alvarado",
     "Oreamuno",
-    "El Guarco",
+    "El Guarco"
   ],
-
-  Heredia: [
+  "Heredia": [
     "Heredia",
     "Barva",
     "Santo Domingo",
@@ -61,10 +60,9 @@ const Cantones = {
     "Belén",
     "Flores",
     "San Pablo",
-    "Sarapiquí",
+    "Sarapiquí"
   ],
-
-  Guanacaste: [
+  "Guanacaste": [
     "Liberia",
     "Nicoya",
     "Santa Cruz",
@@ -75,10 +73,9 @@ const Cantones = {
     "Tilarán",
     "Nandayure",
     "La Cruz",
-    "Hojancha",
+    "Hojancha"
   ],
-
-  Puntarenas: [
+  "Puntarenas": [
     "Puntarenas",
     "Esparza",
     "Buenos Aires",
@@ -90,7 +87,21 @@ const Cantones = {
     "Parrita",
     "Corredores",
     "Garabito",
+    "Monteverde",
+    "Puerto Jiménez"
   ],
-
-  Limon: ["Limón", "Pococí", "Siquirres", "Talamanca", "Matina", "Guácimo"]
+  "Limón": [
+    "Limón",
+    "Pococí",
+    "Siquirres",
+    "Talamanca",
+    "Matina",
+    "Guácimo"
+  ]
 };
+
+// Alias sin tilde (no enumerables)
+Object.defineProperty(Cantones, "San Jose", { get() { return Cantones["San José"]; }, enumerable: false });
+Object.defineProperty(Cantones, "Limon", { get() { return Cantones["Limón"]; }, enumerable: false });
+
+if (typeof module !== "undefined") module.exports = Cantones;
